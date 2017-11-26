@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2a3e11-4622-40b8-b20c-a040343bf35c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OpenTK.dll.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenGLStart/OpenTK.dll.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenGLStart.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenGLStart/test/OpenGLStart.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding>
+                <marker date="1511715238187" expanded="false" signature="6:122" ph="..." />
+                <marker date="1511715238187" expanded="true" signature="150:16256" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="181:16254" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="323:13459" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="381:13449" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="439:1570" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="478:567" ph="/* setup settings, load textures, sounds ... */" />
+                <marker date="1511715238187" expanded="true" signature="1372:1552" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+                <marker date="1511715238187" expanded="true" signature="1619:1719" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="1773:5502" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="1896:1977" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="2045:2162" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="2276:2565" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="2632:2925" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="2716:2903" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+                <marker date="1511715238187" expanded="true" signature="2971:3261" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="3307:3596" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="3663:3954" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="4357:5484" ph="/* Matrix4d projection_matrix;//Матрица 4x4, элементы типа double ... */" />
+                <marker date="1511715238187" expanded="true" signature="5588:13343" ph="{...}" />
+                <marker date="1511715238187" expanded="true" signature="5627:5742" ph="/* render graphics ... */" />
+                <marker date="1511715238187" expanded="true" signature="6110:7369" ph="/* if (!(rotate_matrix[0] == 0 &amp;&amp; rotate_matrix[1] == 0 &amp;&amp; rotate_matrix[2] == 0)) ... */" />
+                <marker date="1511715238187" expanded="true" signature="7766:13220" ph="/* GL.Color3(Color.Red); ... */" />
+                <marker date="1511715238187" expanded="true" signature="13537:16248" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenGLStart/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>n</find>
+      <find>width</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>start</replace>
+      <replace>start + width</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OpenGLStart/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OpenGLStart/OpenTK.dll.config" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C918ACB2-CD87-4ABB-BDEB-12704C1A774F/51/5bc6a616/GameWindow.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/OpenGLStart/test/OpenGLStart.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OpenGLStart/test/OpenGLStart.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OpenGLStart (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OpenGLStart/bin/Debug/OpenGLStart.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenGLStart/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OpenGLStart/OpenGLStart.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2a3e11-4622-40b8-b20c-a040343bf35c" name="Default" comment="" />
+      <created>1511684125393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511684125393</updated>
+      <workItem from="1511684168722" duration="3304000" />
+      <workItem from="1511706525635" duration="3284000" />
+      <workItem from="1511710559532" duration="4766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11354000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/OpenTK.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/OpenTK.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/test/OpenGLStart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <marker date="1511715238187" expanded="false" signature="6:122" ph="..." />
+            <marker date="1511715238187" expanded="true" signature="150:16256" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="181:16254" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="323:13459" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="381:13449" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="439:1570" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="478:567" ph="/* setup settings, load textures, sounds ... */" />
+            <marker date="1511715238187" expanded="true" signature="1372:1552" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+            <marker date="1511715238187" expanded="true" signature="1619:1719" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="1773:5502" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="1896:1977" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2045:2162" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2276:2565" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2632:2925" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2716:2903" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+            <marker date="1511715238187" expanded="true" signature="2971:3261" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="3307:3596" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="3663:3954" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="4357:5484" ph="/* Matrix4d projection_matrix;//Матрица 4x4, элементы типа double ... */" />
+            <marker date="1511715238187" expanded="true" signature="5588:13343" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="5627:5742" ph="/* render graphics ... */" />
+            <marker date="1511715238187" expanded="true" signature="6110:7369" ph="/* if (!(rotate_matrix[0] == 0 &amp;&amp; rotate_matrix[1] == 0 &amp;&amp; rotate_matrix[2] == 0)) ... */" />
+            <marker date="1511715238187" expanded="true" signature="7766:13220" ph="/* GL.Color3(Color.Red); ... */" />
+            <marker date="1511715238187" expanded="true" signature="13537:16248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/OpenTK.dll.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/OpenGLStart.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C918ACB2-CD87-4ABB-BDEB-12704C1A774F/51/5bc6a616/GameWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C918ACB2-CD87-4ABB-BDEB-12704C1A774F/40/dc96f5ba/GL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="124878" column="23" lean-forward="false" selection-start-line="124878" selection-start-column="23" selection-end-line="124878" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGLStart/test/OpenGLStart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <marker date="1511715238187" expanded="false" signature="6:122" ph="..." />
+            <marker date="1511715238187" expanded="true" signature="150:16256" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="181:16254" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="323:13459" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="381:13449" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="439:1570" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="478:567" ph="/* setup settings, load textures, sounds ... */" />
+            <marker date="1511715238187" expanded="true" signature="1372:1552" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+            <marker date="1511715238187" expanded="true" signature="1619:1719" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="1773:5502" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="1896:1977" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2045:2162" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2276:2565" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2632:2925" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="2716:2903" ph="/* GL.Enable(EnableCap.ColorMaterial); ... */" />
+            <marker date="1511715238187" expanded="true" signature="2971:3261" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="3307:3596" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="3663:3954" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="4357:5484" ph="/* Matrix4d projection_matrix;//Матрица 4x4, элементы типа double ... */" />
+            <marker date="1511715238187" expanded="true" signature="5588:13343" ph="{...}" />
+            <marker date="1511715238187" expanded="true" signature="5627:5742" ph="/* render graphics ... */" />
+            <marker date="1511715238187" expanded="true" signature="6110:7369" ph="/* if (!(rotate_matrix[0] == 0 &amp;&amp; rotate_matrix[1] == 0 &amp;&amp; rotate_matrix[2] == 0)) ... */" />
+            <marker date="1511715238187" expanded="true" signature="7766:13220" ph="/* GL.Color3(Color.Red); ... */" />
+            <marker date="1511715238187" expanded="true" signature="13537:16248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

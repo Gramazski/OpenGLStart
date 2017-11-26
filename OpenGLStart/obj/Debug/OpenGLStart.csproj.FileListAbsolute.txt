@@ -1,0 +1,8 @@
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\bin\Debug\OpenGLStart.pdb
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\bin\Debug\OpenTK.dll
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\bin\Debug\OpenTK.xml
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\obj\Debug\OpenGLStart.csprojResolveAssemblyReference.cache
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\obj\Debug\OpenGLStart.pdb
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\bin\Debug\OpenGLStart.exe
+C:\Users\gs\RiderProjects\OpenGLStart\OpenGLStart\obj\Debug\OpenGLStart.exe
